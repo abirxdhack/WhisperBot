@@ -83,8 +83,9 @@ python whisper.py
 
 - **User ID Restriction**: If a user has not started the bot, you will not be able to send secret messages to them using their user ID. Ensure that the recipient has interacted with the bot at least once by clicking **Start**.
 
-## Author
-
+## Authors
+- Name: Bisnu Ray 
+- Telegram: [@TheSmartBisnu](https://t.me/TheSmartBisnu)
 - Name: Abir Arafat Chawdhury
 - Telegram: [@abir_x_official](https://t.me/abir_x_official)
 
